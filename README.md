@@ -6,4 +6,5 @@
 #LAB-5(https://github.com/2303a51707/AIML_2024-2025/blob/main/Assignment_5.ipynb)              
 #LAB-6(https://github.com/2303a51707/AIML_2024-2025/blob/main/Lab06-AIML.ipynb)                    
 #LAB-7(https://github.com/2303a51707/AIML_2024-2025/blob/main/Lab07-SVM%20(1).ipynb)         
-#LAB-8(https://github.com/2303a51707/AIML_2024-2025/blob/main/LAB-8.ipynb)
+#LAB-8(https://github.com/2303a51707/AIML_2024-2025/blob/main/LAB-8.ipynb)                    
+#LAB-9(https://github.com/2303a51707/AIML_2024-2025/blob/main/LAB_9.ipynb)
